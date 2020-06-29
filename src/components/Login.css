@@ -1,0 +1,20 @@
+
+#container{
+   display:flex;
+   flex-direction: column;
+   margin-top: 50px;
+}
+
+#formContainer{
+   display:flex;
+   flex-direction: column;
+}
+
+.Button{
+   width: 100%;
+   padding: 10px;
+   color: aqua;
+}
+
+
+

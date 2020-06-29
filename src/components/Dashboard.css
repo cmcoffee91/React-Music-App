@@ -1,0 +1,29 @@
+#dashContainer{
+    display: flex;
+    flex-direction: column;
+    /*background-color: red;*/
+    height: 100vh;
+    width: 80%;
+}
+
+#cardContainer{
+    /*background-color: blue;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Card{
+    padding: 50px;
+}
+
+h4{
+    text-align: start;
+    color: gray;
+}
+
+h5{
+    text-align: start;
+}
+
+
